@@ -80,9 +80,11 @@ ORDER BY total_trips DESC;
 ```
 
 5. Share (Visualizing the Data)
-(Note: Insert your Tableau Dashboard screenshot here!)
+   
+   Data is only as good as the story it tells. After auditing the dataset in BigQuery, I exported the key metrics to Tableau to create an interactive executive dashboard. This allows stakeholders to drill down into ridership patterns by user type and time of day.
+![Cyclistic Executive Dashboard](Dashboard_1.png)
 
-6. Act (Recommendations)
+7. Act (Recommendations)
 Based on the data, here are my top three recommendations for the marketing team:
 
 The "Weekend Pass" Tier: Since Casual usage peaks on weekends, launch a weekend-only membership to bridge the gap to full annual status.
