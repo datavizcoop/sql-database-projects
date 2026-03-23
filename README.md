@@ -84,11 +84,11 @@ ORDER BY total_trips DESC;
    Data is only as good as the story it tells. After auditing the dataset in BigQuery, I exported the key metrics to Tableau to create an interactive executive dashboard. This allows stakeholders to drill down into ridership patterns by user type and time of day.
 ![Cyclistic Executive Dashboard](Dashboard_1.png)
 
-7. Act (Recommendations)
-Based on the data, here are my top three recommendations for the marketing team:
+6. Act (Strategic Recommendations)
+Based on the analysis of 5.6M records, I recommend the following three strategies to convert casual riders into annual members:
 
-The "Weekend Pass" Tier: Since Casual usage peaks on weekends, launch a weekend-only membership to bridge the gap to full annual status.
+The "Weekend Warrior" Membership Tier: My analysis of Weekend vs. Weekday Volume shows that Casual ridership nearly doubles on Saturdays and Sundays. I recommend launching a membership specifically for weekend users to bridge the gap toward full annual status.
 
-Electric Bike "Member-Only" Surcharges: Offer lower minute rates for electric bikes to Annual Members to incentivize Casuals (who prefer electrics) to switch.
+Leisure-to-Utility Conversion: Data from Average Ride Length proves that Casual trips are significantly longer (22 mins vs 12 mins). Marketing campaigns should emphasize that a membership isn't just for short commutes, but offers the best value for long-duration leisure riding.
 
-Spring/Summer Digital Campaign: Focus heavy ad spend in early April on social media platforms, targeting leisure riders at the start of the peak season.
+After-Work Targeted Marketing: Hourly Demand Patterns shows a steady rise in Casual ridership starting at 12 PM and peaking at 5 PM. I recommend deploying "Join Now" digital promotions specifically during these peak afternoon leisure hours to capture users when they are most active on the bikes.
