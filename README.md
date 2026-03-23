@@ -1,3 +1,17 @@
+# Cyclistic Bike-Share: A SQL & Tableau Case Study
+**Portfolio Project: Google Data Analytics Professional Certificate**
+
+---
+
+### **Executive Summary**
+In this project, I acted as a junior data analyst on the marketing team for Cyclistic, a bike-share company in Chicago. By analyzing **5.6 million rows** of historical trip data, I identified key behavioral differences between casual riders and annual members. My final report provides data-driven strategies to increase annual memberships and drive company growth.
+
+**Tools Used:** * **BigQuery (SQL):** Data Cleaning & Analysis
+* **Tableau:** Data Visualization & Storytelling
+* **Google Cloud Storage:** Large-scale Data Management
+
+
+
 Google Data Analytics Capstone Project
 1. Ask (The Mission)
 The goal of this project was to analyze how annual members and casual riders use Cyclistic bikes differently. By identifying these patterns, I aimed to provide data-backed recommendations to the marketing team for a new strategy: converting casual riders into more profitable annual members.
